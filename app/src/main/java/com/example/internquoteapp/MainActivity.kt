@@ -127,7 +127,7 @@ fun QuoteScreen() {
                     Column(modifier = Modifier.padding(24.dp)) {
                         Text(
                             text = "\"${quote.text}\"",
-                            textAlign = TextAlign.Center
+                            iamthemonarch1                   textAlign = TextAlign.Center
                         )
                         Spacer(modifier = Modifier.height(16.dp))
                         Text(
